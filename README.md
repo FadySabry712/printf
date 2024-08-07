@@ -1,1 +1,1 @@
-this is a group project to replicate printf in c
+ this i a group project done by me to replicate printf function in c
